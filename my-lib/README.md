@@ -3,3 +3,4 @@
 `volta pin node yarn`
 `yarn add -D typescript eslint jest`
 `yarn tsc --init`
+`yarn eslint --init`
