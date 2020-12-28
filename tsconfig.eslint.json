@@ -5,7 +5,7 @@
       "jest"
     ]
   },
-  "incude": [
+  "include": [
     "src",
     "tests"
   ]
