@@ -7,6 +7,6 @@
   },
   "incude": [
     "src",
-    "test"
+    "tests"
   ]
 }
