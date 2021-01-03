@@ -11,3 +11,4 @@
 - `mkdir etc` 
 - `yarn api-extractor run --local`
 - `yarn api-documenter markdown -i temp -o docs`
+(examples)[https://mike-north.github.io/js-documentation-cases/]
